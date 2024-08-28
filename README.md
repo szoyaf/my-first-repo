@@ -1,5 +1,7 @@
-Nama : Shaney Zoya Fiandi
+Nama : Pak Bepe
 
-NPM : 2306215923
+NPM : 2201234567
 
 Kelas : PBP A
+
+Hobi : Tidur
